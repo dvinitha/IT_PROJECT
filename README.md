@@ -1,1 +1,1 @@
-# IT_PROJECT
+# IT project during the semester.
